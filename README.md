@@ -176,13 +176,3 @@ This project is deployed on **[Render / Railway / Azure / AWS / GCP — state wh
 | Random Forest | | | | | |
 | Gradient Boosting | | | | | |
 
-**Selected model:** [name it here]
-
-**Why:** [explain which metric you prioritised and why — e.g. recall matters more than raw accuracy here, because failing to flag a customer who is about to churn is more costly to the business than mistakenly flagging a loyal customer]
-
-**Limitations:** [note anything worth flagging — e.g. class imbalance, dataset size, features that weren't available]
-
-## Author
-
-[Your name]
-[Links — GitHub / LinkedIn, if you'd like to include them]
